@@ -16,3 +16,4 @@ Web creada con 🛠️
     react-icons - Icons
     react-toastify - Alertas
     axios - Conexion a API
+# greatCinema
