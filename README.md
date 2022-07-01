@@ -1,21 +1,36 @@
+﻿
+# Bienvenidos a GREATCINEMA ! 👋  
 
+# Instalación  
+<ul>
+<li>
+git clone https://github.com/david7378/greatcinema.git
+</li>
+<li>
+Una vez clonado simplemente poner el comando "npm install"
+</li>
+<li>
+💻 Para ingresar a la web localmente debes tipear: npm start
+Y se visualiza en el navegador abriendo [http://localhost:3000](http://localhost:3000).
+</li>
+<ul>
 
-Bienvenidos a GREATCINEMA 🚀
+# Web creada con 🛠️
 
-Instalación : una vez clonado simplemente poner el comando "npm install"
-git clone https://github.com/david7378/greatCinema
-
-Para iniciar la web localmente debes tipear:
-npm start
-
-Y se visualiza en el navegador abriendo http://localhost:3000.
-
-Web creada con 🛠️
-    ReactJs - La libreria utilizada.
-    Tailwind - Estilos.
-    react-icons - Icons
-    react-toastify - Alertas
-    axios - Conexion a API
-# greatCinema
-# cinema
-# cinema
+<ul>
+<li>
+ReactJs - La libreria utilizada.
+</li>
+<li>
+Tailwind - Estilos.
+</li>
+<li>
+React-icons - Icons
+</li>
+<li>
+React-toastify - Alertas
+</li>
+<li>
+Axios - Conexión a API
+</li>
+</ul>
